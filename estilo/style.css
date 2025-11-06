@@ -154,6 +154,23 @@ section#img02 {
     text-indent: 1.5em;
 }
 
+aside > h1 {
+    background-color: #3A3945;
+    text-transform: uppercase;
+}
+
+aside{
+    background-color: #4E41C7;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+/* APAGA ESSE TESTE AÍ, ERA SÓ PARA DESTACAR A MENSAGEM*/
+
+#teste {
+    background-color: greenyellow;
+}
+
 footer{
     background-color: black;
     color: white;
