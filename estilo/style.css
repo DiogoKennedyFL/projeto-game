@@ -24,6 +24,11 @@
 @font-face {
     font-family: 'base';
     src: url('/fonte/Gameplay.ttf') format('truetype');
+    /* OPENTYPE
+        WWF
+        WFF
+        WOF
+    */
 }
 
 
@@ -164,13 +169,6 @@ aside{
     border-radius: 10px;
     margin: 10px;
 }
-
-/* APAGA ESSE TESTE AÍ, ERA SÓ PARA DESTACAR A MENSAGEM*/
-
-#teste {
-    background-color: greenyellow;
-}
-
 footer{
     background-color: black;
     color: white;
@@ -179,6 +177,8 @@ footer{
     width: 100%;
     bottom: 0;
 }
+
+
 
 footer strong:hover{
     text-decoration: underline;
